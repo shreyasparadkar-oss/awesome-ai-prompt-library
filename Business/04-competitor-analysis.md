@@ -5,7 +5,7 @@
 Act as a business research analyst.
 
 Analyze the competitive landscape for:
-[PRODUCT/SERVICE]
+[PRODUCT/SERVICE] 
 
 Compare competitors based on:
 - Target customers
