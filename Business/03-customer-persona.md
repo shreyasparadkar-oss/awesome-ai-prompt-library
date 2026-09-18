@@ -17,4 +17,5 @@ Include:
 - Common objections
 - Where they discover products
 
+
 Focus on realistic and useful insights rather than stereotypes.
